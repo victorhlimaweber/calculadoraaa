@@ -1,2 +1,0 @@
-# calculadoraaa
-calculadora interativa
